@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\SumOfArray\bin\Debug\net6.0\SumOfArray.exe
+C:\Users\akshata\source\repos\SumOfArray\bin\Debug\net6.0\SumOfArray.deps.json
+C:\Users\akshata\source\repos\SumOfArray\bin\Debug\net6.0\SumOfArray.runtimeconfig.json
+C:\Users\akshata\source\repos\SumOfArray\bin\Debug\net6.0\SumOfArray.dll
+C:\Users\akshata\source\repos\SumOfArray\bin\Debug\net6.0\SumOfArray.pdb
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.AssemblyInfo.cs
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.dll
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\refint\SumOfArray.dll
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.pdb
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\SumOfArray.genruntimeconfig.cache
+C:\Users\akshata\source\repos\SumOfArray\obj\Debug\net6.0\ref\SumOfArray.dll
