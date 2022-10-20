@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\Book_Management\bin\Debug\net6.0\Book_Management.exe
+C:\Users\akshata\source\repos\Book_Management\bin\Debug\net6.0\Book_Management.deps.json
+C:\Users\akshata\source\repos\Book_Management\bin\Debug\net6.0\Book_Management.runtimeconfig.json
+C:\Users\akshata\source\repos\Book_Management\bin\Debug\net6.0\Book_Management.dll
+C:\Users\akshata\source\repos\Book_Management\bin\Debug\net6.0\Book_Management.pdb
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.AssemblyInfo.cs
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.dll
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\refint\Book_Management.dll
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.pdb
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\Book_Management.genruntimeconfig.cache
+C:\Users\akshata\source\repos\Book_Management\obj\Debug\net6.0\ref\Book_Management.dll
