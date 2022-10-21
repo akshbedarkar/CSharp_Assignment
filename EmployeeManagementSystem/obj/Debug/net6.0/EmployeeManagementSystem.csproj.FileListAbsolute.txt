@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.exe
+C:\Users\akshata\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.deps.json
+C:\Users\akshata\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\akshata\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.dll
+C:\Users\akshata\source\repos\EmployeeManagementSystem\bin\Debug\net6.0\EmployeeManagementSystem.pdb
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.dll
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\refint\EmployeeManagementSystem.dll
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.pdb
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\akshata\source\repos\EmployeeManagementSystem\obj\Debug\net6.0\ref\EmployeeManagementSystem.dll
