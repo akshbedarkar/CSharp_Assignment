@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\UniCastDelegate\bin\Debug\net6.0\UniCastDelegate.exe
+C:\Users\akshata\source\repos\UniCastDelegate\bin\Debug\net6.0\UniCastDelegate.deps.json
+C:\Users\akshata\source\repos\UniCastDelegate\bin\Debug\net6.0\UniCastDelegate.runtimeconfig.json
+C:\Users\akshata\source\repos\UniCastDelegate\bin\Debug\net6.0\UniCastDelegate.dll
+C:\Users\akshata\source\repos\UniCastDelegate\bin\Debug\net6.0\UniCastDelegate.pdb
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.AssemblyInfo.cs
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.dll
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\refint\UniCastDelegate.dll
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.pdb
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\UniCastDelegate.genruntimeconfig.cache
+C:\Users\akshata\source\repos\UniCastDelegate\obj\Debug\net6.0\ref\UniCastDelegate.dll
