@@ -2,7 +2,15 @@
 
 namespace StackPushPop
 {
-    public class Mystack
+    public class StackException: Exception
+    {
+        public StackException(String message)
+            : base(message)
+        {
+
+        }
+    }
+    public class Mystack 
     {
         private int[] array;
         private int top;
@@ -16,15 +24,18 @@ namespace StackPushPop
         }
         public void push(int item)
         {
-            if (top == max - 1)
-            {
-                Console.WriteLine("Stack Overflow");
-                return;
+            
+                if (top == max - 1)
+                {
+                    throw new StackException("Stack is Full");
             }
-            else
-            {
-                array[++top] = item;
-            }
+                else
+                {
+                    array[++top] = item;
+                }
+            
+            
+            
             
 
         }
@@ -32,8 +43,8 @@ namespace StackPushPop
         {
             if (top == -1)
             {
-                Console.WriteLine("Stack is Empty");
-               
+                throw new StackException("Stack is Empty");
+
             }
             else
             {
@@ -48,7 +59,7 @@ namespace StackPushPop
         {
             if (top == -1)
             {
-                Console.WriteLine("Stack is Empty");
+                throw new StackException("Stack is Empty");
                 return;
             }
             else
@@ -80,15 +91,25 @@ namespace StackPushPop
 
                 if (option == 1)
                 {
-                    Console.WriteLine("enter element");
-                    int element = int.Parse(Console.ReadLine());
-                    stack.push(element);
+                    try
+                    {
+                        Console.WriteLine("enter element");
+                        int element = int.Parse(Console.ReadLine());
 
+                        stack.push(element);
+
+                    }
+                    catch (StackException e) { Console.WriteLine(e); }
+                   
                 }
                 else if (option == 2)
                 {
+                    try
+                    {
+                        stack.pop();
+                    }
+                    catch (StackException e) { Console.WriteLine(e); }
 
-                    stack.pop();
                 }
 
                 else if (option == 3)
