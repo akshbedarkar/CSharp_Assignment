@@ -1,0 +1,12 @@
+C:\Users\akshata\source\repos\Forms\bin\Debug\Forms.exe.config
+C:\Users\akshata\source\repos\Forms\bin\Debug\Forms.exe
+C:\Users\akshata\source\repos\Forms\bin\Debug\Forms.pdb
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.SaveUserData.resources
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.HomePage.resources
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.exe
+C:\Users\akshata\source\repos\Forms\obj\Debug\Forms.pdb
