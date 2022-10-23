@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.AssemblyInfo.cs
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\StackPushPop\bin\Debug\net6.0\StackPushPop.exe
+C:\Users\akshata\source\repos\StackPushPop\bin\Debug\net6.0\StackPushPop.deps.json
+C:\Users\akshata\source\repos\StackPushPop\bin\Debug\net6.0\StackPushPop.runtimeconfig.json
+C:\Users\akshata\source\repos\StackPushPop\bin\Debug\net6.0\StackPushPop.dll
+C:\Users\akshata\source\repos\StackPushPop\bin\Debug\net6.0\StackPushPop.pdb
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.dll
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\refint\StackPushPop.dll
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.pdb
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\StackPushPop.genruntimeconfig.cache
+C:\Users\akshata\source\repos\StackPushPop\obj\Debug\net6.0\ref\StackPushPop.dll
