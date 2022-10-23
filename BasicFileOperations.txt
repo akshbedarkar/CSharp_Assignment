@@ -1,0 +1,68 @@
+//operations while creating directory,subdirectory 
+
+
+            string path = @"C:\Users\akshata\source\fieio\MyDirectory";
+
+
+            DirectoryInfo dir = new DirectoryInfo(path);
+            DirectoryInfo[] dirs = dir.GetDirectories();
+
+            foreach(var item in dirs)
+            {
+              Console.WriteLine(item.GetFiles().Length);
+            }
+            dir.Create();
+            dir.CreateSubdirectory("MySubDirectory");
+            dir.CreateSubdirectory("MyAnotherDirectory");
+            dir.CreateSubdirectory("MyThirdDirectory");
+            Console.WriteLine("Directory is created");
+
+           
+//file creation using FileStream
+
+          string path = @"C:\Users\akshata\source\fieio\MyDirectory\MyAnotherDirectory\NewFile.txt";
+          FileStream fs=new FileStream(path, FileMode.Create);
+
+
+//operations to get directory and file details
+
+          string path = @"C:\Users\akshata\source\fieio\MyDirectory\MyAnotherSubDirectory";
+          DirectoryInfo dir = new DirectoryInfo(path);
+	  DirectoryInfo[] dirs = dir.GetDirectories();
+          foreach(var item in dirs)
+          {
+             Console.WriteLine(item.GetFiles().Length);
+          }
+          
+
+
+
+//to write inside a file 
+
+	    string path = @"C:\Users\akshata\source\fieio\MyDirectory\MyAnotherDirectory\NewFile.txt";
+            using(FileStream fs=new FileStream(path,FileMode.Open,FileAccess.Write))
+            {
+                using (StreamWriter sw = new StreamWriter(fs)) 
+                {
+                    sw.Write("This is a sentence.");
+                }
+                
+            }
+//to read data from file
+	   string path = @"C:\Users\akshata\source\fieio\MyDirectory\MyAnotherDirectory\NewFile.txt";
+            using(FileStream fs=new FileStream(path,FileMode.Open,FileAccess.Read))
+            {
+                using (StreamReader sr = new StreamReader(fs)) 
+                {
+                    string line = sr.ReadLine();
+                    Console.WriteLine(line);
+                }
+                
+            }
+
+
+
+
+
+
+
