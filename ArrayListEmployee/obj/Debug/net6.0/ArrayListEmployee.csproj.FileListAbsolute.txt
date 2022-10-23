@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\ArrayListEmployee\bin\Debug\net6.0\ArrayListEmployee.exe
+C:\Users\akshata\source\repos\ArrayListEmployee\bin\Debug\net6.0\ArrayListEmployee.deps.json
+C:\Users\akshata\source\repos\ArrayListEmployee\bin\Debug\net6.0\ArrayListEmployee.runtimeconfig.json
+C:\Users\akshata\source\repos\ArrayListEmployee\bin\Debug\net6.0\ArrayListEmployee.dll
+C:\Users\akshata\source\repos\ArrayListEmployee\bin\Debug\net6.0\ArrayListEmployee.pdb
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.AssemblyInfo.cs
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.dll
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\refint\ArrayListEmployee.dll
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.pdb
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ArrayListEmployee.genruntimeconfig.cache
+C:\Users\akshata\source\repos\ArrayListEmployee\obj\Debug\net6.0\ref\ArrayListEmployee.dll
