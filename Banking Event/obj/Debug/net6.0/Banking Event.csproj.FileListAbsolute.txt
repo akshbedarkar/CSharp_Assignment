@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\Banking Event\bin\Debug\net6.0\Banking Event.exe
+C:\Users\akshata\source\repos\Banking Event\bin\Debug\net6.0\Banking Event.deps.json
+C:\Users\akshata\source\repos\Banking Event\bin\Debug\net6.0\Banking Event.runtimeconfig.json
+C:\Users\akshata\source\repos\Banking Event\bin\Debug\net6.0\Banking Event.dll
+C:\Users\akshata\source\repos\Banking Event\bin\Debug\net6.0\Banking Event.pdb
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.AssemblyInfo.cs
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.dll
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\refint\Banking Event.dll
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.pdb
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\Banking Event.genruntimeconfig.cache
+C:\Users\akshata\source\repos\Banking Event\obj\Debug\net6.0\ref\Banking Event.dll
