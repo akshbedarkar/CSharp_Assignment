@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\AttributesC\AttributesC\bin\Debug\net6.0\AttributesC.exe
+C:\Users\akshata\source\repos\AttributesC\AttributesC\bin\Debug\net6.0\AttributesC.deps.json
+C:\Users\akshata\source\repos\AttributesC\AttributesC\bin\Debug\net6.0\AttributesC.runtimeconfig.json
+C:\Users\akshata\source\repos\AttributesC\AttributesC\bin\Debug\net6.0\AttributesC.dll
+C:\Users\akshata\source\repos\AttributesC\AttributesC\bin\Debug\net6.0\AttributesC.pdb
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.AssemblyInfo.cs
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.dll
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\refint\AttributesC.dll
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.pdb
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\AttributesC.genruntimeconfig.cache
+C:\Users\akshata\source\repos\AttributesC\AttributesC\obj\Debug\net6.0\ref\AttributesC.dll
