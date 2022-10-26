@@ -1,0 +1,6 @@
+C:\Users\akshata\source\repos\MyAssembly\MyAssembly\bin\Debug\MyAssembly.dll
+C:\Users\akshata\source\repos\MyAssembly\MyAssembly\bin\Debug\MyAssembly.pdb
+C:\Users\akshata\source\repos\MyAssembly\MyAssembly\obj\Debug\MyAssembly.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\MyAssembly\MyAssembly\obj\Debug\MyAssembly.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\MyAssembly\MyAssembly\obj\Debug\MyAssembly.dll
+C:\Users\akshata\source\repos\MyAssembly\MyAssembly\obj\Debug\MyAssembly.pdb

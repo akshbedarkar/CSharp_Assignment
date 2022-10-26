@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\bin\Debug\net6.0\Reflection_Assembly.exe
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\bin\Debug\net6.0\Reflection_Assembly.deps.json
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\bin\Debug\net6.0\Reflection_Assembly.runtimeconfig.json
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\bin\Debug\net6.0\Reflection_Assembly.dll
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\bin\Debug\net6.0\Reflection_Assembly.pdb
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.AssemblyInfo.cs
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.dll
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\refint\Reflection_Assembly.dll
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.pdb
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\Reflection_Assembly.genruntimeconfig.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\Reflection_Assembly\obj\Debug\net6.0\ref\Reflection_Assembly.dll

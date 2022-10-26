@@ -1,0 +1,12 @@
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\bin\Debug\net6.0\MyAssembly.deps.json
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\bin\Debug\net6.0\MyAssembly.dll
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\bin\Debug\net6.0\MyAssembly.pdb
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.AssemblyInfo.cs
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.dll
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\refint\MyAssembly.dll
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\MyAssembly.pdb
+C:\Users\akshata\source\repos\Reflection_Assembly\MyAssembly\obj\Debug\net6.0\ref\MyAssembly.dll
