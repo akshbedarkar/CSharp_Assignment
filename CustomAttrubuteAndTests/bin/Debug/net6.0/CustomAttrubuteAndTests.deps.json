@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CustomAttrubuteAndTests/1.0.0": {
+        "dependencies": {
+          "CustomAttributes.cs": "1.0.0"
+        },
+        "runtime": {
+          "CustomAttrubuteAndTests.dll": {}
+        }
+      },
+      "CustomAttributes.cs/1.0.0": {
+        "runtime": {
+          "CustomAttributes.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomAttrubuteAndTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomAttributes.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

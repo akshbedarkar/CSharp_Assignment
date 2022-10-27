@@ -1,0 +1,12 @@
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\bin\Debug\net6.0\CustomAttributes.cs.deps.json
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\bin\Debug\net6.0\CustomAttributes.cs.dll
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\bin\Debug\net6.0\CustomAttributes.cs.pdb
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.AssemblyInfo.cs
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.dll
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\refint\CustomAttributes.cs.dll
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\CustomAttributes.cs.pdb
+C:\Users\akshata\source\repos\CustomAttrubuteAndTests\CustomAttributes.cs\obj\Debug\net6.0\ref\CustomAttributes.cs.dll
